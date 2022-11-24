@@ -1,4 +1,4 @@
-#MANTRA 
+# MANTRA 
 “I am creative, adventurous and honest. I work the web to make it better, and share my positive energy with everyone.”
 
 # About ME
@@ -11,7 +11,7 @@ My inspiration comes from a constant pursuit of learning. I don’t believe in a
 
 Part of a life balance includes enjoying what you do, and making the most of your time away from work. 
 
-###WHAT MOTIVATES ME
+### WHAT MOTIVATES ME
 ## HOBBIES
 + **Hiking** Enjoy getting out into nature, have done several South Mountain Trails, Camelback Mountain, and a few trails in Flagstaff and Sedona. 
 + **Kayaking** Have kayaked the Verde, The Salt River Run, Horseshoe Lake, Canyon Lake, Bartlett Lake. 
