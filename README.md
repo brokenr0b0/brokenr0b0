@@ -29,7 +29,7 @@ Sláinte,
 - Mooney
 
 ## Get Feedback
-I hope you like what you see and if you are interested in learning more, working on projects or just have a question feel free to [contact me here](https://www.https://www.kylemooney.me/contact/)
+I hope you like what you see and if you are interested in learning more, working on projects or just have a question feel free to [contact me here](https://www.kylemooney.me/contact/)
 
 ## Terms of Service outside of collabaration
 [Terms of Service](https://www.kylemooney.me/terms-service/)
